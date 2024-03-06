@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente, estou cursando o 3º semestre do curso de Tecnologia em Sistemas para Internet.<br>🤝 Procuro auxilio de colegas da área em algumas linguagues, dicas e ideias.<br>🌱 Atuamente estou aprendendo no curso as matérias de framewors Front - End, redes de computadores, metodologia da pesquisa e programação desktop.<br>
+🔭 Atualmente, estou cursando o 3º semestre do curso de Tecnologia em Sistemas para Internet.<br>🤝 Procuro auxilio de colegas da área em algumas linguagens, dicas e ideias.<br>🌱 Atuamente estou aprendendo no curso as matérias de framewors Front - End, redes de computadores, metodologia da pesquisa e programação desktop.<br>
 
 
 ## 🌐 Socials:
